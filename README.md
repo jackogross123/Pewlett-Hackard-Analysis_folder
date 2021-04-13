@@ -42,4 +42,10 @@ As it can be seen from these two tables:
 - There are 1,549 employees that are eligible to be a mentor.
 - 675 these people are Senior Staff or Senior Engineers.
 
-Thankfully, the future generation of employees will have some senior individuals to look up to.
+## Summary:
+
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+There are currently 240,124 employees that are working at the company. Over 90,000 of these individuals will be retiring within the next years. More specifically, over 37% of the company is on the retirment path. Even more shockingly, the majority of those leaving are senior employees with years of knowledge. To replace the old generation, over 90,000 people have to be hired in order to support the either out-sourcing or in-house promotions of people.
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+There are not enough of retirement-ready employees in each of the departments to mentor the next generation of employees. There are only 1,549 people that are elidible to mentor the sum 90,000 new people that will need to be hired in order to support the retirement at the top of the company. 
