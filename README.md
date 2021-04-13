@@ -7,5 +7,7 @@ To successful complete the analysis I built an entity relationship diagram (ERD)
 
 ### Resources
 Software: Pg Admin - PostgreSQL 11, VS Code
+
 [Data](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/tree/main/Data)
+
 [Queries](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/tree/main/Queries)
