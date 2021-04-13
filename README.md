@@ -13,7 +13,14 @@ Software: Pg Admin - PostgreSQL 11, VS Code
 [Queries](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/tree/main/Queries)
 
 ## Results
+The first part of the anaylsis was to create a table that held all of the unique individuals that were retiring, along with their job titles. Finally, I found the amount of each of the unique job titles that were retiring.
+
 ![Deliverable 1](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Deliverable_1.png)
 
+Above is a snapshot of the table of all of the unqiue people that are retiring.
+
+![Deliverable_yes](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Deliverable_1.2.png)
+
+Above is the completed deliverable #2. 
 
 ![Deliverable_2](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Delv_1.png)
