@@ -4,3 +4,8 @@ The comapny Pewlett Hackard is approaching an important milestone - The Silver T
 
 To successful complete the analysis I built an entity relationship diagram (ERD) to capture the relationships that I found in the supplied data. 
 ![ERD](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Screen%20Shot%202021-04-13%20at%205.57.36%20PM.png)
+
+### Resources
+Software: Pg Admin - PostgreSQL 11, VS Code
+[Data](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/tree/main/Data)
+[Queries](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/tree/main/Queries)
