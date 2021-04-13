@@ -21,6 +21,15 @@ Above is a snapshot of the table of all of the unqiue people that are retiring.
 
 ![Deliverable_yes](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Deliverable_1.2.png)
 
-Above is the completed deliverable #2. 
+Above is the completed deliverable. As it can be seen from this snapshot:
+
+- There are 90,398 people that are retiring soon (individuals that were born between 1952 and 1955). 
+- More than 50% of the employees retiring are senior staff (talk about a brain drain!)
+
+All of this institutional knowledge leaving would be a problem, but smart executives at Pewlett-Hackard have decided to create a mentorship program to train the next generation of employees. Below is the completed second deliverable.
 
 ![Deliverable_2](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Delv_1.png)
+
+Additionally, I wanted to find the count of each of the unique job titles for the mentorship list. Below is a snapshot of that table
+
+![Mentorship_count](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/mentorship_count.png)
