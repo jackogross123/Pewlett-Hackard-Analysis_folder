@@ -11,3 +11,9 @@ Software: Pg Admin - PostgreSQL 11, VS Code
 [Data](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/tree/main/Data)
 
 [Queries](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/tree/main/Queries)
+
+## Results
+![Deliverable 1](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Deliverable_1.png)
+
+
+![Deliverable_2](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Delv_1.png)
