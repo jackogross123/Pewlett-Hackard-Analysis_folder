@@ -13,6 +13,7 @@ Software: Pg Admin - PostgreSQL 11, VS Code
 [Queries](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/tree/main/Queries)
 
 ## Results
+### Part 1
 The first part of the anaylsis was to create a table that held all of the unique individuals that were retiring, along with their job titles. Finally, I found the amount of each of the unique job titles that were retiring.
 
 ![Deliverable 1](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/Deliverable_1.png)
@@ -24,7 +25,9 @@ Above is a snapshot of the table of all of the unqiue people that are retiring.
 Above is the completed deliverable. As it can be seen from this snapshot:
 
 - There are 90,398 people that are retiring soon (individuals that were born between 1952 and 1955). 
-- More than 50% of the employees retiring are senior staff (talk about a brain drain!)
+- More than 50% of the employees retiring are senior staff or senior engineers (talk about a brain drain!)
+
+### Part 2
 
 All of this institutional knowledge leaving would be a problem, but smart executives at Pewlett-Hackard have decided to create a mentorship program to train the next generation of employees. Below is the completed second deliverable.
 
@@ -33,3 +36,10 @@ All of this institutional knowledge leaving would be a problem, but smart execut
 Additionally, I wanted to find the count of each of the unique job titles for the mentorship list. Below is a snapshot of that table
 
 ![Mentorship_count](https://github.com/jackogross123/Pewlett-Hackard-Analysis_folder/blob/main/Resources/mentorship_count.png)
+
+As it can be seen from these two tables:
+
+- There are 1,549 employees that are eligible to be a mentor.
+- 675 these people are Senior Staff or Senior Engineers.
+
+Thankfully, the future generation of employees will have some senior individuals to look up to.
